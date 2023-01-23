@@ -1,7 +1,7 @@
 [![MasterHead](https://tse3.mm.bing.net/th?id=OIP.nurvt7SpRxAJREUrwAkFQwHaFj&pid=Api&P=0](https://amanpatel2003.io)
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="left" alt="Coding" width="400d" src="[https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif](https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif)">
+<img align="right" alt="Coding" width="300d" src="[https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif](https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpatel2003&label=Profile%20views&color=0e75b6&style=flat" alt="amanpatel2003" /> </p>
 
