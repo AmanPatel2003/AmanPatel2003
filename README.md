@@ -52,7 +52,7 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/>
   </a>
-</p>p></p>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpatel2003&show_icons=true&locale=en&layout=compact" alt="amanpatel2003" /></p>
 
